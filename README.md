@@ -1,5 +1,4 @@
-# ARRAY
-INPUT ARRAY
+
 #include <stdio.h>
 
 int main()
